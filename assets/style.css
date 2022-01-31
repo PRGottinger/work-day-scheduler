@@ -26,10 +26,6 @@ textarea {
   justify-content: center;
 }
 
-.col-8 {
-  /* background-color: rgb(224, 219, 219); */
-}
-
 .description {
   white-space: pre-wrap;
 }

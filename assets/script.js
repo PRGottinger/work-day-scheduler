@@ -25,5 +25,5 @@ $(document).ready(function () {
 
   //   console.log("click");
 });
-var currentDay = moment().format("MMM D YYYY H:m a");
+var currentDay = moment().format("MMM D, YYYY H:m a");
 $("p[id=currentDay]").text(currentDay);
